@@ -1,8 +1,8 @@
 class Masterwork < Formula
   desc "Workbench for the skills and subagents your AI coding agents use, with scored simulations"
   homepage "https://masterwork.sh"
-  url "https://github.com/flieks/masterwork/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "1291f459cd6fef786d63bf1637be7bc0b1415a081563e3462afd0c393c6885c6"
+  url "https://github.com/flieks/masterwork/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "01e857e2bfe5c1cf9b7473fa241dff90e7473b1b4dfc55fc04ed31ba13eb7572"
   license "Elastic-2.0"
 
   depends_on "node"
